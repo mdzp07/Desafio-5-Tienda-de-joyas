@@ -1,0 +1,20 @@
+{
+  "name": "desafio-5---tienda-de-joyas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "consultas.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "pg": "^8.11.5",
+    "pg-format": "^1.0.4"
+  }
+}
